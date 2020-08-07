@@ -1,5 +1,5 @@
 <h1 align="center">
-    <!-- <img alt="ecoleta" title="Graphic design is my passion" src=".github/logo.png" width="250px" /> -->
+    <img alt="proffy" title="Graphic design is my passion" src=".github/logo.svg" width="250px" />
 </h1>
 
 <p align="center">
