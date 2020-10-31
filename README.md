@@ -37,7 +37,7 @@ This project was made using:
 
 ## 💻 About the project
 
-proffy is an app that links students with teachers.
+Proffy is an app that links students with teachers.
 
 This application was developed through the 2nd Next Level Week, promoted by [Rocketseat](https://rocketseat.com.br/). Special thanks to [Mayk Brito](https://github.com/maykbrito) for all the work he put into making this course.
 
