@@ -37,9 +37,9 @@ This project was made using:
 
 ## 💻 About the project
 
-Proffy is an app that links students with teachers
+Proffy is an app that links students with teachers.
 
-This application was developed through the 2nd Next Level Week, promoted by [Rocketseat](https://rocketseat.com.br/). Special thanks to [Mayk Brito](https://github.com/maykbrito) for all the work he put into making this course
+This application was developed through the 2nd Next Level Week, promoted by [Rocketseat](https://rocketseat.com.br/). Special thanks to [Mayk Brito](https://github.com/maykbrito) for all the hard work he put into making this course.
 
 ## 🤔 How to contribute
 
@@ -48,8 +48,8 @@ This application was developed through the 2nd Next Level Week, promoted by [Roc
 - Commit your changes: `git commit -m 'feat: My new feature'`;
 - Push to your branch: `git push origin my-feature`.
 
-After your pull request has been merged, you can delete your branch
+After your pull request has been merged, you can delete your branch.
 
 ## :memo: License
 
-This project is under the GNU General Public License v3.0. See [LICENSE](LICENSE) for more details
+This project is under the GNU General Public License v3.0. See [LICENSE](LICENSE) for more details.
